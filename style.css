@@ -1,0 +1,41 @@
+body{
+    font-family: font-family: 'Lato', sans-serif;;
+}
+.button{
+text-decoration: none;
+background-image: linear-gradient(rgb(241, 160, 10), tomato);
+padding: 20px 40px;
+color: white;
+font-weight: 500;
+border-radius: 70px;
+font-size: 20px;
+}
+h1{
+    font-size: 60px;
+    margin: 0;
+}
+.dark{
+    color: rgb(97, 93, 93);
+}
+.flexible{
+    display: flex;
+}
+.position{
+    width: 45%;
+    padding-left: 5%;
+    padding-right: 3%;
+    
+}
+.position img{
+    width: 107%;
+}
+#top-clear{
+    margin-top: 150px;
+}
+.orange{
+    color: rgb(241, 165, 22);
+}
+h3{
+    margin: 30px 0px;
+    padding-right: 30px;
+}
