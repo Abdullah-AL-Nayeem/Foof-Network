@@ -1,12 +1,14 @@
 body{
-    font-family: font-family: 'Lato', sans-serif;;
+    font-family: font-family: 'Lato', sans-serif;
+    margin: 0;
 }
+
 .button{
 text-decoration: none;
 background-image: linear-gradient(rgb(241, 160, 10), tomato);
 padding: 20px 40px;
 color: white;
-font-weight: 500;
+font-weight: 600;
 border-radius: 70px;
 font-size: 20px;
 }
@@ -19,6 +21,7 @@ h1{
 }
 .flexible{
     display: flex;
+    margin-bottom: 100px;
 }
 .position{
     width: 45%;
@@ -38,4 +41,24 @@ h1{
 h3{
     margin: 30px 0px;
     padding-right: 30px;
+}
+
+.second-position{
+    width: 40%;
+    padding: 0% 3%;
+}
+.second-position img{
+    width: 70%;
+    padding-left: 130px;
+}
+p{
+    font-size: 19px;
+}
+.about-section{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.fast-bg{
+    background-image: url(Images/bg.png);
+    
 }
